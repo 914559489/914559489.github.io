@@ -19,7 +19,7 @@ Spring:
    
 多线程:
     - Synchronized、lock、voliate、悲观锁/乐观锁、CAS。
-    - 线程池ThreadPoolExecutor的了解
+    - 线程池ThreadPoolExecutor的了解。
     
    
     
