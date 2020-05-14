@@ -17,9 +17,16 @@ Spring:
    - Spring容器的初始化过程
    - Spring FactoryBean和BeanFactory的了解和区别
    
-Thread:
-    - Synchronized、lock、voliate、悲观锁/乐观锁、CAS。
-    - 线程池ThreadPoolExecutor的了解。
+Spring:
+   - AOP
+   - IOC DI
+   - bean的初始化
+   - Spring的扩展点
+   - Springbean的生命周期
+   - Spring是否支持循环依赖,Spring在处理循环依赖为什么需要使用三级缓存
+   - BIO/NIO底层机制
+   - Spring容器的初始化过程
+   - Spring FactoryBean和BeanFactory的了解和区别
     
    
     
