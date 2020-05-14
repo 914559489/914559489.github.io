@@ -17,7 +17,7 @@ Spring:
    - Spring容器的初始化过程
    - Spring FactoryBean和BeanFactory的了解和区别
    
-多线程:
+Thread:
     - Synchronized、lock、voliate、悲观锁/乐观锁、CAS。
     - 线程池ThreadPoolExecutor的了解。
     
